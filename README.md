@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnillothe&show_icons=true&locale=en&layout=compact" alt="swapnillothe"/>
+</p>
+
 <!--
 **swapnillothe/swapnillothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
